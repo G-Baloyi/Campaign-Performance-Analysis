@@ -27,7 +27,8 @@ The dataset contains **501 customer interactions**, capturing campaign type, cha
 ---
 
 ## Analysis & Visuals 
-<img width="1361" height="674" alt="image" src="https://github.com/user-attachments/assets/301321c3-5568-4603-b033-747d8e3ed4be" />
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/fe225bc4-ac4c-418a-a0a8-4a8efb3fc064" />
+
 
 
 ---
