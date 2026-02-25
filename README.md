@@ -26,13 +26,14 @@ The dataset contains **501 customer interactions**, capturing campaign type, cha
 
 ---
 
-## 📈 Analysis & Visuals 
- <img width="1354" height="669" alt="image" src="https://github.com/user-attachments/assets/d2601104-7b57-45dc-961e-f34df54a7e88" />
+## Analysis & Visuals 
+<img width="1361" height="674" alt="image" src="https://github.com/user-attachments/assets/301321c3-5568-4603-b033-747d8e3ed4be" />
+
 
 ---
 
 ## Recommendation
-👉 **Prioritize Campaign A + Email channel to maximize new customer acquisition.**
+ **Prioritize Campaign A + Email channel to maximize new customer acquisition.**
 
 - Email is the strongest channel for conversions and revenue.  
 - Campaign A’s conversational tone connects better with first‑time buyers.  
