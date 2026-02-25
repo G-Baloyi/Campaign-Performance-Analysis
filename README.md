@@ -34,3 +34,6 @@ This combination balances tone and reach, delivering the strongest conversion an
 ## Tools Used
 - Microsoft Excel (pivot tables, slicers, charts)
 - PowerPoint (presentation slide)
+
+  <img width="1354" height="669" alt="image" src="https://github.com/user-attachments/assets/d2601104-7b57-45dc-961e-f34df54a7e88" />
+
