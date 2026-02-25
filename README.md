@@ -1,29 +1,44 @@
-# Campaign Performance Analysis
+# Campaign Performance Analysis – NewCo Marketing Case Study
 
 ## Overview
-This project analyzes marketing campaign performance for **NewCo**, a retail client testing two campaign tones (A: conversational, B: promotional) across three channels (Email, Instagram, Web Banner).  
-The goal: identify which campaign + channel combination drives **new customer sales** most effectively.
+NewCo ran a one‑week, multi‑channel marketing campaign to test two messaging strategies:  
+- **Campaign A**: conversational tone  
+- **Campaign B**: promotional tone  
 
-## Data
-- Raw dataset of 29 interactions
-- Attributes: Campaign Type, Channel, Customer Type, Conversion, Time on Site, Sales ($)
+The campaigns were delivered across **Email, Instagram, and Web Banner** channels.  
+The dataset contains **501 customer interactions**, capturing campaign type, channel, customer type, conversion status, time on site, and sales ($).
 
-## Analysis
-- Built pivot tables in Excel to summarize:
-  - Total sales by channel
-  - Total sales by campaign
-  - New customer sales by campaign + channel
-- Applied slicers to filter by customer type
-- Visualized results with stacked bar charts and pie charts
+**Objective:** Identify which campaign + channel combination most effectively drives **new customer sales**.
+
+---
+
+## Data & Methods
+- **Raw data (501 interactions)** with campaign, channel, customer type, conversion, and sales.  
+- **Pivot tables** built in Excel to summarize sales by channel, campaign, and customer type.  
+- **Charts** created to visualize total sales, campaign performance, and new customer acquisition.  
+
+---
 
 ## Key Insights
-- **Email consistently drove the highest sales**, especially for new customers.
-- Campaign A (conversational tone) performed better with new customers via Email.
-- Instagram and Web Banner generated lower sales compared to Email.
+1. **Email consistently outperformed Instagram and Web Banner**, generating the majority of both total and new customer sales.  
+2. **Campaign B** drove higher overall sales, but **Campaign A** resonated more strongly with new customers.  
+3. The most effective combination for new customer acquisition was **Campaign A + Email**.  
+
+---
+
+## 📈 Analysis & Visuals 
+ <img width="1354" height="669" alt="image" src="https://github.com/user-attachments/assets/d2601104-7b57-45dc-961e-f34df54a7e88" />
+
+---
 
 ## Recommendation
-Double down on **Campaign A + Email channel** to maximize new customer acquisition.  
-This combination balances tone and reach, delivering the strongest conversion and sales impact.
+👉 **Prioritize Campaign A + Email channel to maximize new customer acquisition.**
+
+- Email is the strongest channel for conversions and revenue.  
+- Campaign A’s conversational tone connects better with first‑time buyers.  
+- This combination ensures sustainable growth and stronger ROI.  
+
+---
 
 ## Files
 - `/data` → Raw dataset
@@ -35,5 +50,5 @@ This combination balances tone and reach, delivering the strongest conversion an
 - Microsoft Excel (pivot tables, slicers, charts)
 - PowerPoint (presentation slide)
 
-  <img width="1354" height="669" alt="image" src="https://github.com/user-attachments/assets/d2601104-7b57-45dc-961e-f34df54a7e88" />
+ 
 
